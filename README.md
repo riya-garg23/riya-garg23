@@ -16,4 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=riya-garg23&show_icons=true&locale=en" alt="riya-garg23" /></p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user="riya-garg23" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=riya-garg23)](https://git.io/streak-stats)
