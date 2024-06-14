@@ -1,4 +1,4 @@
-## Hi there 👋 I am Riya Garg
+## Hi there 👋 I'm Riya Garg
 
 
 
