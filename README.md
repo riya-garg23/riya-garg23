@@ -14,7 +14,7 @@
 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=riya-garg23&show_icons=true&locale=en" alt="riya-garg23" /></p>-->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=riya-garg23&show_icons=true&theme=gotham" alt="riya-garg23"/></p>
+<p bg="white"> <img src="https://github-readme-stats.vercel.app/api?username=riya-garg23&show_icons=true&theme=gotham" alt="riya-garg23"/></p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=riya-garg23)](https://git.io/streak-stats)
