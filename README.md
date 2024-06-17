@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working as **Frontend Developer**
+- 🔭 I’m currently looking for opportunity to work as **Frontend Developer**
 - 🌱 I’m also learning **Full-Stack Development**
 - 📫 How to reach me: riyagarg2309@gmail.com
 
